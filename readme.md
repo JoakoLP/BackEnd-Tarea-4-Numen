@@ -9,5 +9,3 @@
 
 - [x] Implementar express-validator para los casos de POST y PUT.
 - [x] Crear un middleware que verifique si el ID ingresado es correcto y implementarlo para PUT y DELETE.
-
-[^1]: NOTA IMPORTANTE: No enviar el paquete de node_modules en la tarea.
